@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lavenderblush;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: lightpink;
+    text-align: center;
+}
+
+table {
+    border: 4px black;
+    width: 700px;
+    margin: auto;
+}
